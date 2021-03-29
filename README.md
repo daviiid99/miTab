@@ -1,5 +1,6 @@
 # miTab
 
+<img src="https://github.com/daviiid99/miTab/blob/TWRP/miTab_render.png">
 
 
 # Build instructions
