@@ -42,7 +42,7 @@ repo init -u git://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni.
 repo sync -j$(nproc --all)
 
 #Clone miTab PRO COLORS device tree and create device folder
-git clone -b TWRP https://github.com/daviiid99/miTab.git device/wolder/miTab_PRO_COLORS
+git clone -b https://github.com/daviiid99/miTab.git device/wolder/miTab_PRO_COLORS
 
 #Lunch command and build twrp
 . build/envsetup.sh
