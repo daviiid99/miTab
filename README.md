@@ -49,6 +49,6 @@ lunch omni_miTab_PRO_COLORS-eng
 mka recoveryimage
 
 #Download and Flash TWRP 
-#out/target/product/i9/recovery.img #Result build will be inside this folder
+#out/target/product/miTab_PRO_COLORS/recovery.img #Result build will be inside this folder
 fastboot flash recovery out/target/product/miTab_PRO_COLORS/recovery.img
 ```
